@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationsRegistry</string>
+    <string name="activity_main_text_view_title">Welcome!</string>
+    <string name="activity_main_text_view_guide">Enter your userid and hit MONITOR!</string>
+    <string name="edit_text_userid_hint">userid</string>
+    <string name="button_text_monitor">MONITOR</string>
+    <string name="activity_main_error_msg_empty_user_id">userid is required!</string>
+    <string name="activity_main_receiver_registered">Airplane mode monitoring started!</string>
+    <string name="activity_main_receiver_unregistered">Airplane mode monitoring stopped!</string>
+
+</resources>
